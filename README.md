@@ -1,4 +1,4 @@
-# dream-restaurant
+# Dream Restaurant
 
-[![dream-restaurant](screenshot.png "Web Site")](https://google.com)
-
+## DEMO:
+[![Dream Restaurant](screenshot.png "Dream Restaurant")](https://dream-restaurant.surge.sh)
